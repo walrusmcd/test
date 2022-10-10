@@ -164,7 +164,7 @@
           "metadata": {
             "description": "Uri to download file that is executed in the custom script extension"
           },
-          "defaultValue": "https://raw.githubusercontent.com/walrusmcd/test/HCI/HciCustomScript.ps1"
+          "defaultValue": "https://raw.githubusercontent.com/walrusmcd/test/master/HCI/HciCustomScript.ps1"
         },
         "fileName": {
           "type": "string",
